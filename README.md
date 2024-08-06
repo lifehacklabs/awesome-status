@@ -3,7 +3,7 @@
 
 This list includes links to each service's [StatusSight status page](https://statussight.com/), official status page, website, support page, and X (Twitter) profile, when available.
 
-Star or bookmark for when you encounter an outage or an issue with your favorite service.
+Star or bookmark for when you encounter an outage in your favorite service.
 
 ## Popular Services Status
 * GitHub - [GitHub status](https://statussight.com/status/github), [official status](https://www.githubstatus.com), [website](https://github.com/), [support page](https://github.com/support), [X profile](https://twitter.com/githubstatus)
